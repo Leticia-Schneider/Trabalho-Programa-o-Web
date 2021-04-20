@@ -1,0 +1,26 @@
+:root {
+    --color-background: #FFFFFF;
+    --color-primary: #e5c5d0;
+    --color-title-in-primary: #444440;
+    --color-title-in-secundary: #e5c5d0;
+    --color-text-in-primary: #444440;
+    --color-button-text: #E5C5D0;
+    --color-box: #e5c5d0;
+    --color-tittle: #FFFFFF;
+
+    font-size: 60%;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+header {
+    font-weight: 500;
+    font-family: Monotype Corsiva;
+    font-size: 2.8rem;
+}
