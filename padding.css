@@ -1,0 +1,131 @@
+.header-1 {
+    height: 1px;
+}
+
+.redes-sociais ul li{
+    display: inline-block;
+    margin-left: 0.2rem;
+    list-style: none;
+}
+
+.redes-sociais {
+    width: 20%;
+    float: right;
+}
+
+.photo {
+    float: left;
+    padding: 0px;
+    width: 80%;
+}
+
+.title {
+    width: 100vw;
+    max-width: 1500px;
+    margin: 0rem;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.name {
+    display: flex;
+    float: right;
+    width: 900px;
+    margin-top: -220px;
+    color: var(--color-title-in-primary);
+}
+
+.sub-title {
+    display: flex;
+    float: right;
+    width: 900px;
+    margin-top: -150px;
+    color: var(--color-title-in-secundary);
+}
+   
+
+#perfil {
+    display: inline-block;
+    float: left;
+    margin-left: 15rem;
+    margin-top: 4.5rem;
+    color: var(--color-title-in-secundary)
+}
+
+#perfil p {
+    display: inline-block;
+    float: left;
+    margin-left: 0rem;
+    margin-top: 0rem;
+    width: 250px;
+    font: 900 1.4rem Akhbar MT;
+    color: var(--color-text-in-primary);
+}
+
+#habilidade {
+    display: inline-block;
+    float: left;
+    margin-left: -26rem;
+    margin-top: 30rem;
+    color: var(--color-title-in-secundary)
+}
+
+#habilidade ul li{
+    display: flex;
+    margin-left: -3rem;
+    margin-top: 0rem;
+    width: 90px;
+    font: 900 1.4rem Akhbar MT;
+    color: var(--color-text-in-primary);
+}
+
+#contato {
+    display: inline-block;
+    float: left;
+    margin-left: 23rem;
+    margin-top: 4.5rem;
+    color: var(--color-title-in-secundary)
+}
+
+#contato p {
+    display: flex;
+    margin-left: 0rem;
+    margin-top: -1rem;
+    width: 250px;
+    font: 900 1.4rem Akhbar MT;
+    color: var(--color-text-in-primary);
+}
+
+#referencia {
+    display: inline-block;
+    float: left;
+    margin-left: -26rem;
+    margin-top: 30rem;
+    color: var(--color-title-in-secundary)
+}
+
+#referencia p {
+    display: flex;
+    margin-left: 0rem;
+    margin-top: 2rem;
+    width: 250px;
+    font: 900 1.4rem Akhbar MT;
+    color: var(--color-title-in-primary);
+}
+
+#formacao {
+    display: inline-block;
+    float: left;
+    margin-left: 112rem;
+    margin-top: -57rem;
+    color: var(--color-title-in-secundary)
+}
+
+#formacao p{
+    display: flex;
+    margin-left: 0rem;
+    margin-top: -1rem;
+    width: 260px;
+    font: 900 1.4rem Akhbar MT;
+    color: var(--color-title-in-primary);
+}
